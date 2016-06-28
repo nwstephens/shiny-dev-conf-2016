@@ -5,7 +5,7 @@
 In order to run the "Gapminder" tab, install the gapminder package:
 
 ```{r}
-install.packages("gapminder"")
+install.packages("gapminder")
 ```
 
 Modules function in their own namespace. Namespaces are a key concept for understanding Shiny modules. For details on how Shiny modules work, please refer to [this](http://shiny.rstudio.com/articles/modules.html) article.
